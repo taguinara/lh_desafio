@@ -1,0 +1,41 @@
+# ── Ambiente virtual
+venv/
+env/
+.venv/
+
+# ── Dados brutos (não versionar dados sensíveis)
+data/raw/
+
+# ── Dados processados (gerados pelo ETL)
+# data/processed/
+
+# ── Banco SQLite (gerado pelo criar_banco.py)
+lh_nautical.db
+
+# ── Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# ── Cache do Streamlit
+.streamlit/
+
+# ── Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ── Logs
+*.log
+
+# ── Variáveis de ambiente
+.env
+.env.local

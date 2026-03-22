@@ -1,0 +1,50 @@
+id,nome,email,city,state,flag_nome_suspeito
+1,Femininos Oliveira Antunes,femininos.oliveira.antunes@icloud.com,Aratu (Candeias),BA,True
+2,Fernanda Azevedo Soares Nunes Vieira,nunes.fernanda.soares.azevedo.vieira@outlook.com,Recife,PE,False
+3,Daniel Farias Ribeiro Teixeira,farias.teixeira.daniel.ribeiro@gmail.com,Rio Grande,RS,False
+4,Thiago Moreira,thiago.moreira@gmail.com,Rio Branco,AC,False
+5,Pedro Freitas,pedro.freitas@icloud.com,Santarém Novo,PA,False
+6,Antônia Coelho Pinheiro Peixoto Cavalcanti,coelho.pinheiro.peixoto.antônia.cavalcanti@aol.com,Fortaleza do Tabocão,TO,False
+7,Bianca Barros Rocha Torres Siqueira,torres.barros.rocha.bianca.siqueira@aol.com,Cabedelo,PB,False
+8,Luiz Alves Pimentel,pimentel.alves.luiz@outlook.com,Aracaju,SE,False
+9,Lucas Guedes Cunha Lopes,lucas.lopes.guedes.cunha@tutanota.com,João Pessoa,PB,False
+10,Débora Paiva,paiva.débora@gmx.com,Santarém,PA,False
+11,Victor Torres Monteiro,torres.monteiro.victor@gmail.com,Porto Seguro,BA,False
+12,Rafael Pereira Barros,rafael.pereira.barros@zoho.com,Fortaleza do Tabocão,TO,False
+13,Carlos Guimarães Martins,martins.guimarães.carlos@hotmail.com,Santarém,PA,False
+14,Gabriela Silva Vieira Amaral,vieira.silva.amaral.gabriela@icloud.com,Itacoatiara,AM,False
+15,Carla Lopes Alves Pacheco Rocha,lopes.alves.pacheco.rocha.carla@yahoo.com,Fortaleza do Tabocão,TO,False
+16,Renata Pacheco Cardoso,renata.pacheco.cardoso@zoho.com,Fortaleza,CE,False
+17,Luís Paiva Costa Cardoso Coelho,costa.paiva.luís.coelho.cardoso@aol.com,Corumbá,MS,False
+18,Adriana Guedes Borges Alves Rocha,rocha.adriana.guedes.borges.alves@protonmail.com,Santarém,PA,False
+19,Renata Lima Gomes Coelho Mendonça,renata.lima.mendonça.coelho.gomes@icloud.com,Maceió,AL,False
+20,Bruno Silva,silva.bruno@zoho.com,Santarém Novo,PA,False
+21,Sandra Rocha Oliveira Soares Peixoto,peixoto.soares.rocha.oliveira.sandra@yahoo.com,Rio Branco,AC,False
+22,Daniela Borges Vieira Farias Mendonça,borges.vieira.daniela.mendonça.farias@protonmail.com,Aracaju,SE,False
+23,Bruna Mendonça Rodrigues,rodrigues.mendonça.bruna@aol.com,Santos,SP,False
+24,Carla Peixoto Azevedo Silva Araújo,peixoto.carla.araújo.silva.azevedo@outlook.com,Laguna,SC,False
+25,Femininos Antunes Lopes Ribeiro Amaral,femininos.antunes.amaral.lopes.ribeiro@icloud.com,São Mateus,ES,True
+26,Luiz Borges Gomes Araújo,gomes.araújo.borges.luiz@hotmail.com,Manaus,AM,False
+27,Flávia Nunes Martins Ribeiro Coelho,nunes.flávia.coelho.martins.ribeiro@protonmail.com,Salvador,BA,False
+28,Bianca Rodrigues,rodrigues.bianca@icloud.com,Antonina,PR,False
+29,Gabriela Moraes Macedo Nunes,moraes.nunes.gabriela.macedo@icloud.com,Fortaleza,CE,False
+30,Victor Araújo Azevedo Tavares Correia,araújo.tavares.azevedo.victor.correia@gmail.com,Itacoatiara,AM,False
+31,Jéssica Figueiredo Leite Martins,jéssica.martins.leite.figueiredo@tutanota.com,São Luís,MA,False
+32,Daniela Teixeira Antunes Coelho Batista,antunes.coelho.batista.teixeira.daniela@hotmail.com,Porto Seguro,BA,False
+33,Diego Costa Guedes Cunha,guedes.cunha.costa.diego@outlook.com,Rio Grande,RS,False
+34,Victor Vieira Nunes Cunha,nunes.cunha.victor.vieira@protonmail.com,Fortaleza,CE,False
+35,Priscila Martins,martins.priscila@tutanota.com,João Pessoa,PB,False
+36,Francisca Ribeiro Pinheiro,ribeiro.francisca.pinheiro@aol.com,Belém,PA,False
+37,Jéssica Pimentel Borges Nunes Teixeira,nunes.borges.teixeira.pimentel.jéssica@yahoo.com,Itaqui (São Luís),MA,False
+38,Mateus Antunes,mateus.antunes@gmail.com,Fortaleza do Tabocão,TO,False
+39,Renata Oliveira Siqueira,oliveira.renata.siqueira@aol.com,Suape (Ipojuca),PE,False
+40,Lucas Pacheco,pacheco.lucas@aol.com,Corumbá,MS,False
+41,Pedro Ribeiro Costa Santos Correia,costa.correia.ribeiro.santos.pedro@yahoo.com,Aratu (Candeias),BA,False
+42,Márcia Figueiredo,márcia.figueiredo@protonmail.com,Vila do Conde (Barcarena),PA,False
+43,Jéssica Farias Cunha,farias.jéssica.cunha@outlook.com,Itaqui (São Luís),MA,False
+44,Rafael Paiva Vieira,rafael.vieira.paiva@icloud.com,Paranaguá,PR,False
+45,Amanda Santos Figueiredo Rodrigues Siqueira,figueiredo.siqueira.rodrigues.amanda.santos@tutanota.com,Santarém,PA,False
+46,Ana Silva Costa Farias Coelho,costa.farias.coelho.ana.silva@hotmail.com,Macapá,AP,False
+47,Gabriela Barros Lacerda,lacerda.gabriela.barros@tutanota.com,Niterói,RJ,False
+48,Letícia Torres Peixoto Oliveira,torres.oliveira.peixoto.letícia@yahoo.com,Suape (Ipojuca),PE,False
+49,Diego Costa Tavares Antunes,costa.tavares.antunes.diego@icloud.com,Aracaju,SE,False
