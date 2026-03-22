@@ -9,22 +9,34 @@ Dashboard analítico desenvolvido para o Desafio Lighthouse de Dados & IA, 2026.
 ## Estrutura
 ```
 lh_nautical/
-├── app_streamlit.py   
-├── config.py       
-├── eda.py   
-├── limpeza.py  
-├── vendas.py 
-├── clientes.py   
-├── alertas.py 
-├── previsao.py 
-├── recomendacao.py 
-├── sobre.py 
+├── app_streamlit.py
+├── config.py
+├── eda.py
+├── limpeza.py
+├── vendas.py
+├── clientes.py
+├── alertas.py
+├── previsao.py
+├── recomendacao.py
+├── sobre.py
 ├── etl_pipeline.py
+├── criar_bd_lh.py       
 ├── schema_e_queries.sql
+├── queries_sqlite.sql    
 ├── requirements.txt
+├── lh_nautical.db         
 └── data/
     ├── raw/
+    │   ├── produtos_raw.csv
+    │   ├── vendas_2023_2024.csv
+    │   ├── clientes_crm.json
+    │   └── custos_importacao.json
     └── processed/
+        ├── df_main.csv
+        ├── produtos_clean.csv
+        ├── clientes_clean.csv
+        ├── custos_vigentes.csv
+        └── custos_historico.csv
 ```
 
 ## Como executar
@@ -52,12 +64,17 @@ pip install -r requirements.txt
 python etl_pipeline.py
 ```
 
-5. Rode o dashboard
+5. Crie o banco de dados SQLite
+```bash
+python criar_bd_lh.py
+```
+
+6. Rode o app streamlit
 ```bash
 streamlit run app_streamlit.py
 ```
 
-5. Autora do projeto
+7. Autora do projeto
 ```bash
 Tainara Almeida
 ```
