@@ -1,29 +1,3 @@
-"""
-LH Nautical — Pipeline ETL completo
-====================================
-Estrutura esperada de pastas:
-
-  seu_projeto/
-  ├── data/
-  │   ├── raw/
-  │   │   ├── produtos_raw.csv
-  │   │   ├── vendas_2023_2024.csv
-  │   │   ├── clientes_crm.json
-  │   │   └── custos_importacao.json
-  │   └── processed/          ← gerado automaticamente pelo ETL
-  │       ├── df_main.csv
-  │       ├── produtos_clean.csv
-  │       ├── clientes_clean.csv
-  │       ├── custos_vigentes.csv
-  │       └── custos_historico.csv
-  ├── etl_pipeline.py
-  └── app_streamlit.py
-
-Como executar:
-  1. Coloque os 4 arquivos brutos em  data/raw/
-  2. python etl_pipeline.py
-"""
-
 import pandas as pd
 import json
 import numpy as np
@@ -182,6 +156,7 @@ def tratar_custos() -> pd.DataFrame:
                 rows.append({
                     "product_id":   prod["product_id"],
                     "product_name": prod["product_name"],
+                    "category":     prod["category"],
                     "start_date":   dt,
                     "usd_price":    h["usd_price"],
                 })
